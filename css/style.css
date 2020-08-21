@@ -9,7 +9,6 @@ body {
 }
 img {
   max-width: 100%;
-  max-height: inherit;
 }
 .container {
   width: 90%;
@@ -129,8 +128,6 @@ margin-bottom: 38px;
   background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 95.44%);
 }
 .project-image {
-  max-width: 338px;
-  max-height: inherit;
   border-radius: 6px;
 }
 .projects-slide {
